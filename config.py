@@ -1,0 +1,17 @@
+APP_NAME="PackSecure AI"
+
+VERSION="1.0"
+
+AUTHOR="Soumya Kumari"
+
+PRIMARY="#7B2FF7"
+
+SECONDARY="#4A00E0"
+
+SAFE="green"
+
+WARNING="orange"
+
+DANGER="red"
+
+MAX_UPLOAD=10
